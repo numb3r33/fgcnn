@@ -122,6 +122,7 @@ class FGCNN(Module):
 
         p     = input_x
         out_r = []
+
         for i in range(len(self.conv_layers)):
             p, r = self.conv_layers[i](p)
             out_r.append(r)
