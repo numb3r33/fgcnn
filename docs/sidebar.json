@@ -1,0 +1,8 @@
+{
+  "fgcnn": {
+    "Overview": "/",
+    "Data Preparation": "data.html",
+    "Model Architecture": "model.html",
+    "Training": "train.html"
+  }
+}
